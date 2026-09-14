@@ -1,0 +1,36 @@
+Patient P1 added with priority 3.
+Patient P2 added with priority 1.
+Patient P3 added with priority 2.
+Patient P4 added with priority 1.
+Patient P5 added with priority 3.
+Patient P6 added with priority 2.
+
+--- Treatment Order ---
+Treating patient: P2 (Priority 1)
+Treating patient: P4 (Priority 1)
+Treating patient: P3 (Priority 2)
+Treating patient: P6 (Priority 2)
+Treating patient: P1 (Priority 3)
+Treating patient: P5 (Priority 3)
+
+--- New Test ---
+Patient P1 added with priority 3.
+Patient P2 added with priority 1.
+Patient P3 added with priority 2.
+Patient P4 added with priority 1.
+Patient P5 added with priority 3.
+Patient P6 added with priority 2.
+
+Treating first 3 patients:
+Treating patient: P2 (Priority 1)
+Treating patient: P4 (Priority 1)
+Treating patient: P3 (Priority 2)
+
+Adding new Emergency patient:
+Patient Emergency added with priority 1.
+
+--- Remaining Treatment Order ---
+Treating patient: Emergency (Priority 1)
+Treating patient: P6 (Priority 2)
+Treating patient: P1 (Priority 3)
+Treating patient: P5 (Priority 3)
